@@ -25,12 +25,21 @@ If your guess word is an invalid word you will receive an error indicating this.
 Target Word: APPLE
 
 START GAME
+
 CATCH
+
 _a___
+
 Taste
+
 _a__E
+
 ALIKE
+
 Al__E
+
 APPLE
+
 4
+
 GAME OVER
