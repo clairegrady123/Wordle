@@ -1,4 +1,4 @@
-Project Name: COSC540 Claire Grady Wordle-like Game Assignment 2
+WORDLE
 
 Run:
 
